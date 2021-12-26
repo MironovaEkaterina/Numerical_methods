@@ -1,0 +1,10 @@
+﻿  Method.cpp
+  Task.cpp
+  Task11_Mironova.cpp
+D:\Учеба\ЧМ\Numerical_methods\Task11\Project1\Task11_Mironova.h(1660,1): warning C4965: неявная упаковка целого числа 0; используйте nullptr или явное приведение типов
+D:\Учеба\ЧМ\Numerical_methods\Task11\Project1\Task11_Mironova.h(1739,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Учеба\ЧМ\Numerical_methods\Task11\Project1\Task11_Mironova.h(1632,11): warning C4101: S_: неиспользованная локальная переменная
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  Method.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Project1.vcxproj -> D:\Учеба\ЧМ\Numerical_methods\Task11\Debug\Project1.exe

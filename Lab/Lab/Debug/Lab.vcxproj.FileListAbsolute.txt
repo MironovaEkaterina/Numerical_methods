@@ -1,0 +1,3 @@
+D:\Учеба\ЧМ\Lab\Lab\Debug\Lab.vcxproj.AssemblyReference.cache
+D:\Учеба\ЧМ\Lab\Lab\Debug\Lab.Lab1.resources
+D:\Учеба\ЧМ\Lab\Lab\Debug\Lab.vcxproj.GenerateResource.cache
